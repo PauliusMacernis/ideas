@@ -107,10 +107,10 @@ Simonas says: [Flush app](https://play.google.com/store/apps/details?id=toilet.s
 
  
   
-Do you know anyone who has successfully implemented any ideas on this list? Let me know, I will add the link to the result.
+Do you know anyone who has successfully implemented any ideas on this list? Let me know, I will add the link to the result.  
 Let me also know if you found your favourite.  
   
-I am planning to continue working on the implementation of the most impactive one.
+I am planning to continue working on the implementation of the most impactive one.  
 The order of ideas is random at the moment.  
   
 Best wishes!
