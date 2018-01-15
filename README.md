@@ -102,8 +102,14 @@ Simonas says: [Flush app](https://play.google.com/store/apps/details?id=toilet.s
 * Website selling unique creative gifts. No for the generic gifts.
 * Website on FAQ: vegetarianism, immunizations, etc.
 * An open-source IT solution in a form of web system and cards for discount/overprice. The point is that some people get a discount while others get overprice after swiping during payment. The whole web system is dedicated to manage where the markup(?) overprice goes... Discount cards are issued for people living under the poverty level/line only. You may choose/pick to support people, products, look at what is supported by you buy using the discount card, etc. The supported one may be backed up to 100% in the best case scenario. The overprice/markup(?) would be/is based on statistics of poverty of the region. For example, ~20% of overpricing(markup) would be set for Lithuania, because ~1/5 of the population is currently living in poverty/under the poverty line.
-* (I will probably continue adding to/expanding this list as the ideas keep on popping/head is still working...)
-* ...
+* Website analyzing job postings all over the internet boards with the goal to make a personalized and smart real-time career adviser for every registered user. The user would pick the path, e.g. "web developer" and the system would pick the learning path based on current job-related trends. This project has been started by me some time ago, slowly going forward. Should I invest more time into it?  
+[https://github.com/sugalvojau/veikt.com](https://github.com/sugalvojau/veikt.com)
+* A book on questions "Every <profession> should know". This would be basically the list of many misunderstood or ignored (but very important to know!) topics of the <profession>. The book may be good for self-challenging from time to time, for job interviews, for other cases. This is the draft I am coming with for "Every web developer should know":  
+ [https://github.com/sugalvojau/Questions](https://github.com/sugalvojau/Questions) , [https://sugalvojau.gitbooks.io/questions-it-person/content/](https://sugalvojau.gitbooks.io/questions-it-person/content/)
+* The website collecting summaries of a very long content. For example: YouTube videos, books, articles, etc. Would be probably a good idea to make some sort of plugin for the web browser as well. In this way you would be notified if any summary for the URL you are seeing already exists. So maybe you may read/watch/listen to the short summary instead of spending the time on the whole content.
+* One open-source table summarizing and referencing the science-based information on the needs of a living organism. For example, "Nutrition of a human" - the table listing human needs in order everybody to live under healthy conditions. In the case of this example there would be no primary intention on giving the instructions on in-taking a specific product you could find in the store, for example: avocado, potato, strawberries, etc. Knowing how much exactly and which type of fat, carbohydrates, fiber, vitamins, minerals to use is the point here. Food covering the entire list of the elements would follow later. Some draft-like start of this project has been made here:  
+ [https://poreikiu-baze.gitbooks.io/mityba/content/](https://poreikiu-baze.gitbooks.io/mityba/content/)
+ 
 
  
   
