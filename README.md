@@ -15,17 +15,17 @@ Enjoy!
 * The biggest or the smallest advertising board (an actual real-size construction)
 * Shop for student-made goods (sells anything students are making at the time they are studying)
 * Organizing tours for school students following particular study programs
-* Internet trade center made on areal map (go to 3D building to shop, etc.)
+* Internet trade center made on a real map (go to 3D building to shop, etc.)
 * Cars as models (website). Ad agencies would use cars for campaigns.
 * United book. Different person for each page - united for a concrete idea.
-* Documentary about making money from nothing,  followed by the success story of using the money to make money
-* Company with at least 150 member- business-owners. Hotel and entertainment business.
+* Documentary about making money from nothing, followed by the success story of using the money to make money
+* Company with at least 150 member-business-owners. Hotel and entertainment business.
 * Travel agency offering travels in levels (start from the smallest country)
 * A book "Doing business right" written by kindergarden-aged children
 * A hairdressing saloon offering a hairstyle inspired by the song you bring with you
 * Country reviews by local people. One video per person of the country.
 * Underwater restaurant
-* Homeless-animal- friendly restaurant offering to take pets home.
+* Homeless-animal-friendly restaurant offering to take pets home.
 * IT company specializing in helping people with disabilities (blind, deaf, etc.)
 * Street game where you get a photo of someone and then search for that person
 * A game like "Alias", but with emotions. One has to show the given emotion of the card.
@@ -36,8 +36,8 @@ Enjoy!
 * Nation-wide magazine about newborns. Name, expectations, family, etc.
 * A complete book of one’s life. Experience of the lifetime in 100 pages.
 * "A month to try before you die" – gift set of one month worth of 100% extreme activities/things
-* The ethnic shop switching it`s "made by country" periodically. Some buses?
-* The shop switching it`s "today is the holiday of X" daily
+* The ethnic shop switching it's "made by country" periodically. Some buses?
+* The shop switching it's "today is the holiday of X" daily
 * Dictionary of ideograms
 * Open-air festival organized by artificial intelligence
 * "Yellow pages". Querying specific group of companies with your question.
@@ -46,7 +46,7 @@ Enjoy!
 * Initiative of the weekend - carefully rating 'to-do's’, picking the best one
 * IT company that creates products for free - experience and social value
 * Resource sharing for people with high IQ (you cannot get car if IQ is \<100)
-* Best PC shop. There would always be an offer of the"best for majority for today" product.
+* Best PC shop. There would always be an offer of the "best for majority for today" product.
 * Selling tickets for a double price on the day of event
 * Internet cafe for experts. Many expensive software packages to use.
 * E-school. The project about uniting the activities of national schools.
@@ -59,7 +59,7 @@ Enjoy!
 * Versus. The sentence is posted and you could pick to support it or not.
 * Public company as a an alternative/ new government (mirroring the real one)
 * Software that generates a question out of a statement / questions out of statements
-* E-shop with no price tags. You name get the price before the payment only.
+* E-shop with no price tags. You get the price before the payment only.
 * Projects of my neighborhood (x km around) – neighbors’ calls for an action.
 * The website where you could ask for motivation for doing something
 * Website where you could ask for ideas for your company
@@ -94,12 +94,12 @@ Simonas says: Life is good t-shirts
 * Real estate portal specializing in 3D browsing.
 * An environment (website? app?) automatically arranging a personal "to do" list according to life virtues you value the most.
 * Unlimited 1-day ticket for riding any bus, train, etc.
-* On-line system for sharing packages. Anybody is  able to become a courier.
+* On-line system for sharing packages. Anybody is able to become a courier.
 * Centralized system for car information: public uploads, institutional information, real-time information, contacts, car rent option (on/off), car sell option (on/off), special offers for the owner (for example: "we have analyzed your driving experience. Based on the results we suggest you to sell your car for X1 to the user X2 and buy car X3 instead, because X5")
 * Map of WCs (app?)  
 Simonas says: [Flush app](https://play.google.com/store/apps/details?id=toilet.samruston.com.toilet&hl=en&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BB8AyLZqqRB2AbKJHmkstmg%3D%3D)
 * Picking cardboard boxes out of shops and re-selling them.
-* Website selling unique creative gifts. No for the genericgifts.
+* Website selling unique creative gifts. No for the generic gifts.
 * Website on FAQ: vegetarianism, immunizations, etc.
 * An open-source IT solution in a form of web system and cards for discount/overprice. The point is that some people get a discount while others get overprice after swiping during payment. The whole web system is dedicated to manage where the markup(?) overprice goes... Discount cards are issued for people living under the poverty level/line only. You may choose/pick to support people, products, look at what is supported by you buy using the discount card, etc. The supported one may be backed up to 100% in the best case scenario. The overprice/markup(?) would be/is based on statistics of poverty of the region. For example, ~20% of overpricing(markup) would be set for Lithuania, because ~1/5 of the population is currently living in poverty/under the poverty line.
 * (I will probably continue adding to/expanding this list as the ideas keep on popping/head is still working...)
