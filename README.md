@@ -2,7 +2,7 @@
 
 The complete list of ideas for software development or other type of activities.
 
-I was browsing through archive files and was making some screenshots of my past projects. By doing this, I realized I have many sketches on ideas that did not reach  complete implementation. Why not sharing all of these ideas with the rest of the world, I thought...
+I was browsing through archive files and was making some screenshots of my past projects. By doing this, I realized I have many sketches on ideas that did not reach complete implementation. Why not sharing all of these ideas with the rest of the world, I thought...
 
 You can find the complete list here:  
 Enjoy!
