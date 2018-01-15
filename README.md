@@ -35,6 +35,7 @@ Enjoy!
 - [ ] Place for people to join in groups for buying something in bulk
 - [ ] Nation-wide magazine about newborns. Name, expectations, family, etc.
 - [ ] A complete book of one’s life. Experience of the lifetime in 100 pages.
+- [ ] Extend the existing book of mine with the existing drafts, posted articles, better comments, etc. Put it to GitBook.
 - [ ] "A month to try before you die" – gift set of one month worth of 100% extreme activities/things
 - [ ] The ethnic shop switching it's "made by country" periodically. Some buses?
 - [ ] The shop switching it's "today is the holiday of X" daily
