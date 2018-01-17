@@ -113,7 +113,8 @@ Simonas says: [Flush app](https://play.google.com/store/apps/details?id=toilet.s
 - [ ] HXZl7: Bringing together a community of people individually donating/investing their income into the society. This community would be acting towards cruelty-free, friendly, healthy, happy, positively thinking and conscious society: direct individual donations to homeless people in cities, establishment of non-profit organizations helping animals, lots of related initiatives and activities. It may look like the game in which group of people are racing for the most efficiently made individual donation, but it is also the group of people living for real under the same life mission. All the new members would start with donating (up to) 10% of their last income to the initiatives of their own choice. The intentions of community members stay the same during all the time - the members have to individually donate after every income got, have to never stop donating, have to never donate less percent than before, and (have to) finally reach the level of knowledge and skills to be able to live while constantly donating the entire 100% of the income.
 - [ ] Making a video channel the team of which is traveling around the countries and towns by collecting answers to the only question: "What is the best memory you have?"
 - [ ] Open source individual budget tracking and planing system allowing to connect into private or public "budget circles" with other known and unknown people, split bills in between, provide tips on budget, investments, etc.
-
+- [ ] TJ8RP: Website collecting pictures and other info of products, including the related barcode, nutrition information, prices in different shops, etc. Various filters to filter the products and ingridients, various statistical conlusions from the information provided, for example, what is the cheepest way to get 100% of daily norm of calcium, etc.
+ 
 
  
   
