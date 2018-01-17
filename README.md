@@ -114,7 +114,7 @@ Simonas says: [Flush app](https://play.google.com/store/apps/details?id=toilet.s
 - [ ] Making a video channel the team of which is traveling around the countries and towns by collecting answers to the only question: "What is the best memory you have?"
 - [ ] Open source individual budget tracking and planing system allowing to connect into private or public "budget circles" with other known and unknown people, split bills in between, provide tips on budget, investments, etc.
 - [ ] TJ8RP: Website collecting pictures and other info of products, including the related barcode, nutrition information, prices in different shops, etc. Various filters to filter the products and ingridients, various statistical conlusions from the information provided, for example, what is the cheepest way to get 100% of daily norm of calcium, etc.
- 
+- [ ] WHE5C: Website of one page containing statistical real-time (as possible) information on the current economic state. Many trends, charts and similar stuff shown for the user. Open source, for sure.
 
  
   
