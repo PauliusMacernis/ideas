@@ -116,7 +116,7 @@ Simonas says: [Flush app](https://play.google.com/store/apps/details?id=toilet.s
 - [ ] TJ8RP: Website collecting pictures and other info of products, including the related barcode, nutrition information, prices in different shops, etc. Various filters to filter the products and ingridients, various statistical conlusions from the information provided, for example, what is the cheepest way to get 100% of daily norm of calcium, etc.
 - [ ] WHE5C: Website of one page containing statistical real-time (as possible) information on the current economic state. Many trends, charts and similar stuff shown for the user. Open source, for sure.
 - [ ] 1C500: Organization established and/or represented by emigrants from all over the world. The point of this is to have tool by using which everywhere living emigrants can impact the situation in the own contry (for example, Lithuania) remotely.
-- [ ] HWYTK: Composing and shipping unique bundles of identity's experience (for example of country, company, profession, etc.).
+- [ ] HWYTK: Composing and shipping bundles of identity's experience (for example of country, company, profession, etc.).
 - [ ] RQQMT: A website crawling and aggregating all resources (like online boards) giving things for free.
  
   
