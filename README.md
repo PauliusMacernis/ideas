@@ -4,7 +4,7 @@ The complete list of ideas for software development or other type of activities.
 
 I was browsing through archive files and was making some screenshots of my past projects. By doing this, I realized I have many sketches on ideas that did not reach complete implementation. Why not sharing all of these ideas with the rest of the world, I thought...
 
-You can find the complete list here:  
+You can find the complete list here: 
 Enjoy!
 
 - [ ] Application protecting from media sound level rising unexpectedly
@@ -64,7 +64,7 @@ Enjoy!
 - [ ] Projects of my neighborhood (x km around) – neighbors’ calls for an action.
 - [ ] The website where you could ask for motivation for doing something
 - [ ] Website where you could ask for ideas for your company
-- [ ] My Expenses - day by day: tips, recommendations, statistics, etc.  
+- [ ] My Expenses - day by day: tips, recommendations, statistics, etc. 
 Simonas says: [https://www.buxfer.com/](https://www.buxfer.com/)
 - [ ] Self-sustaining village mirroring a place with the highest population density
 - [ ] "Explore a country in an \<amount\> days. For \<profession\> only." guide
@@ -83,7 +83,7 @@ Simonas says: [https://www.buxfer.com/](https://www.buxfer.com/)
 - [ ] Make a question with multiple options as possible answers, add people interested in the same subjects (they will add more options to the pool), add rated values important to you on the basis of the question (for example: "fuel economy - 1st, interior and exterior  - 2nd, etc."),  add people you trust on each value (for example: "fuel economy - John Smith, interior and exterior - wife, etc."), added people are invited to answer the questions according to the values assigned only. The individual and group/global answer is the final outcome.
 - [ ] E-shop where you could search by the ingredients. (nothing special?)
 - [ ] Training center specializing in developing memorable learning experiences
-- [ ] Organization (with the purpose) to promote positive thinking.  
+- [ ] Organization (with the purpose) to promote positive thinking. 
 Simonas says: Life is good t-shirts
 - [ ] The contest on doing business. Individuals would establish /are establishing (their own) companies with the purpose of getting the highest possible profits (out of it) in one year.
 - [ ] A restaurant-cinema (building & outside).
@@ -97,34 +97,43 @@ Simonas says: Life is good t-shirts
 - [ ] Unlimited 1-day ticket for riding any bus, train, etc.
 - [ ] On-line system for sharing packages. Anybody is able to become a courier.
 - [ ] Centralized system for car information: public uploads, institutional information, real-time information, contacts, car rent option (on/off), car sell option (on/off), special offers for the owner (for example: "we have analyzed your driving experience. Based on the results we suggest you to sell your car for X1 to the user X2 and buy car X3 instead, because X5")
-- [ ] Map of WCs (app?)  
+- [ ] Map of WCs (app?) 
 Simonas says: [Flush app](https://play.google.com/store/apps/details?id=toilet.samruston.com.toilet&hl=en&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BB8AyLZqqRB2AbKJHmkstmg%3D%3D)
 - [ ] Picking cardboard boxes out of shops and re-selling them.
 - [ ] Website selling unique creative gifts. No for the generic gifts.
 - [ ] Website on FAQ: vegetarianism, immunizations, etc.
 - [ ] An open-source IT solution in a form of web system and cards for discount/overprice. The point is that some people get a discount while others get overprice after swiping during payment. The whole web system is dedicated to manage where the markup(?) overprice goes... Discount cards are issued for people living under the poverty level/line only. You may choose/pick to support people, products, look at what is supported by you buy using the discount card, etc. The supported one may be backed up to 100% in the best case scenario. The overprice/markup(?) would be/is based on statistics of poverty of the region. For example, ~20% of overpricing(markup) would be set for Lithuania, because ~1/5 of the population is currently living in poverty/under the poverty line.
-- [ ] Website analyzing job postings all over the internet boards with the goal to make a personalized and smart real-time career adviser for every registered user. The user would pick the path, e.g. "web developer" and the system would pick the learning path based on current job-related trends. This project has been started by me some time ago, slowly going forward. Should I invest more time into it?  
+- [ ] Website analyzing job postings all over the internet boards with the goal to make a personalized and smart real-time career adviser for every registered user. The user would pick the path, e.g. "web developer" and the system would pick the learning path based on current job-related trends. This project has been started by me some time ago, slowly going forward. Should I invest more time into it? 
 [https://github.com/sugalvojau/veikt.com](https://github.com/sugalvojau/veikt.com)
-- [ ] A book on questions "Every <profession> should know". This would be basically the list of many misunderstood or ignored (but very important to know!) topics of the <profession>. The book may be good for self-challenging from time to time, for job interviews, for other cases. This is the draft I am coming with for "Every web developer should know":  
+- [ ] A book on questions "Every <profession> should know". This would be basically the list of many misunderstood or ignored (but very important to know!) topics of the <profession>. The book may be good for self-challenging from time to time, for job interviews, for other cases. This is the draft I am coming with for "Every web developer should know": 
  [https://github.com/sugalvojau/Questions](https://github.com/sugalvojau/Questions) , [https://sugalvojau.gitbooks.io/questions-it-person/content/](https://sugalvojau.gitbooks.io/questions-it-person/content/)
 - [ ] The website collecting summaries of a very long content. For example: YouTube videos, books, articles, etc. Would be probably a good idea to make some sort of plugin for the web browser as well. In this way you would be notified if any summary for the URL you are seeing already exists. So maybe you may read/watch/listen to the short summary instead of spending the time on the whole content.
-- [ ] One open-source table summarizing and referencing the science-based information on the needs of a living organism. For example, "Nutrition of a human" - the table listing human needs in order everybody to live under healthy conditions. In the case of this example there would be no primary intention on giving the instructions on in-taking a specific product you could find in the store, for example: avocado, potato, strawberries, etc. Knowing how much exactly and which type of fat, carbohydrates, fiber, vitamins, minerals to use is the point here. Food covering the entire list of the elements would follow later. Some draft-like start of this project has been made here:  
+- [ ] One open-source table summarizing and referencing the science-based information on the needs of a living organism. For example, "Nutrition of a human" - the table listing human needs in order everybody to live under healthy conditions. In the case of this example there would be no primary intention on giving the instructions on in-taking a specific product you could find in the store, for example: avocado, potato, strawberries, etc. Knowing how much exactly and which type of fat, carbohydrates, fiber, vitamins, minerals to use is the point here. Food covering the entire list of the elements would follow later. Some draft-like start of this project has been made here: 
  [https://poreikiu-baze.gitbooks.io/mityba/content/](https://poreikiu-baze.gitbooks.io/mityba/content/)
 - [ ] HXZl7: Bringing together a community of people individually donating/investing their income into the society. This community would be acting towards cruelty-free, friendly, healthy, happy, positively thinking and conscious society: direct individual donations to homeless people in cities, establishment of non-profit organizations helping animals, lots of related initiatives and activities. It may look like the game in which group of people are racing for the most efficiently made individual donation, but it is also the group of people living for real under the same life mission. All the new members would start with donating (up to) 10% of their last income to the initiatives of their own choice. The intentions of community members stay the same during all the time - the members have to individually donate after every income got, have to never stop donating, have to never donate less percent than before, and (have to) finally reach the level of knowledge and skills to be able to live while constantly donating the entire 100% of the income.
 - [ ] Making a video channel the team of which is traveling around the countries and towns by collecting answers to the only question: "What is the best memory you have?"
 - [ ] Open source individual budget tracking and planing system allowing to connect into private or public "budget circles" with other known and unknown people, split bills in between, provide tips on budget, investments, etc.
-- [ ] TJ8RP: Website collecting pictures and other info of products, including the related barcode, nutrition information, prices in different shops, etc. Various filters to filter the products and ingridients, various statistical conlusions from the information provided, for example, what is the cheepest way to get 100% of daily norm of calcium, etc.
+- [ ] TJ8RP: Website collecting pictures and other info of products, including the related barcode, nutrition information, prices in different shops, etc. Various filters to filter the products and ingredients, various statistical conclusions from the information provided, for example, what is the cheapest way to get 100% of daily norm of calcium, etc.
 - [ ] WHE5C: Website of one page containing statistical real-time (as possible) information on the current economic state. Many trends, charts and similar stuff shown for the user. Open source, for sure.
-- [ ] 1C500: Organization established and/or represented by emigrants from all over the world. The point of this is to have tool by using which everywhere living emigrants can impact the situation in the own contry (for example, Lithuania) remotely.
+- [ ] 1C500: Organization established and/or represented by emigrants from all over the world. The point of this is to have tool by using which everywhere living emigrants can impact the situation in the own country (for example, Lithuania) remotely.
 - [ ] HWYTK: Composing and shipping bundles of identity's experience (for example of country, company, profession, etc.).
 - [ ] RQQMT: A website crawling and aggregating all resources (like online boards) giving things for free. The list of projects asking for donation may also be here.
 - [ ] 7I49N: The Shop selling everything from/on fruits: fruit mixes to take away, fruits to eat at the place, info about every fruit in sale, fruits museum (like a garden or so), open public fruits market (anyone can sell), sculptures and decorations out of fruits, anything else that may come into a mind. All fruits are carefully washed in eyes of customers (if they choose so) and are ready to consume immediately. All fruits are organic. Seminars on fruits cultivation, nutrition and many other topics could also be found here.
+- [ ] Company designing and selling unique table or outside games. Anyone can visit the company to play the experimental games (games not selling yet).
+- [ ] Group of people willing to get into one good habit from the options provided by a group for at least 21 day in a row. People who keep up with the habit well may add the next habit for another 21 day or remove the old one. The point here is to strengthen the personal will, have some people to talk about the same, and keep on going for as long as possible. Examples of the habits for adoption: daily cold shower, daily exercising, daily meditation, etc.
+- [ ] 4VJL4: Crowdsourcing platform for children of schools. The point of this is to promote kids and schools with extra money, knowledge, skills and opportunities that is sometimes necessary in order for kids to learn in a more creative environment with more professionals involved. This also grows a sense for kids on what the community around them is, what it likes and what it means to be funded by a community in general. Experiencing and understanding the sense of what the community funds in general links participating kids into success of integrating to a community later in life. It also naturally links to a prosperity of a community itself, because such activities increase the density of individuals who understands well the needs of a community. Kids are allowed to submit their proposals-projects in case the content of it is covered by official program adopted by a school.
+- [ ] 825KK: Open source wizard-like website allowing people to create their own rent agreements. The priority is set for real estate rent-type agreements, but car rent agreements, other things rent agreements may follow easily.
  
-  
-Do you know anyone who has successfully implemented any ideas on this list? Let me know, I will add the link to the result.  
-Let me also know if you found your favourite.  
-  
-I am planning to continue working on the implementation of the most impactive one.  
-The order of ideas is random at the moment.  
-  
+ 
+ 
+ 
+ 
+ 
+Do you know anyone who has successfully implemented any ideas on this list? Let me know, I will add the link to the result. 
+Let me also know if you found your favourite. 
+ 
+I am planning to continue working on the implementation of the most impactive one. 
+The order of ideas is random at the moment. 
+ 
 Best wishes!
+
