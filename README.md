@@ -117,7 +117,8 @@ Simonas says: [Flush app](https://play.google.com/store/apps/details?id=toilet.s
 - [ ] WHE5C: Website of one page containing statistical real-time (as possible) information on the current economic state. Many trends, charts and similar stuff shown for the user. Open source, for sure.
 - [ ] 1C500: Organization established and/or represented by emigrants from all over the world. The point of this is to have tool by using which everywhere living emigrants can impact the situation in the own contry (for example, Lithuania) remotely.
 - [ ] HWYTK: Composing and shipping bundles of identity's experience (for example of country, company, profession, etc.).
-- [ ] RQQMT: A website crawling and aggregating all resources (like online boards) giving things for free.
+- [ ] RQQMT: A website crawling and aggregating all resources (like online boards) giving things for free. The list of projects asking for donation may also be here.
+- [ ] 7I49N: The Shop selling everything from/on fruits: fruit mixes to take away, fruits to eat at the place, info about every fruit in sale, fruits museum (like a garden or so), open public fruits market (anyone can sell), sculptures and decorations out of fruits, anything else that may come into a mind. All fruits are carefully washed in eyes of customers (if they choose so) and are ready to consume immediately. All fruits are organic. Seminars on fruits cultivation, nutrition and many other topics could also be found here.
  
   
 Do you know anyone who has successfully implemented any ideas on this list? Let me know, I will add the link to the result.  
