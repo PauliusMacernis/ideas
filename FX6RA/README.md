@@ -1,0 +1,1 @@
+# Global jar of assets
