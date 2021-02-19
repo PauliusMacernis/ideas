@@ -136,6 +136,7 @@ Simonas says: [Flush app](https://play.google.com/store/apps/details?id=toilet.s
 - [ ] CADUX: Translating lectures of well known psychologists to Lithuanian. Put all under YouTube, have Facebook account, etc. Many people who cannot speak foreign language have a need for a psychology-based advice.
 - [ ] A pathwalk as a timeline of whatewer, e.g. history.
 - [ ] FDGEE: Web software development for organizations promoting green-lifestyle.
+- [ ] Extract questions out of pdf and random;y ask these. May also be configured to extract random topics, random lines, etc, - good for learning.
  
  
 Do you know anyone who has successfully implemented any ideas on this list? Let me know, I will add the link to the result. 
