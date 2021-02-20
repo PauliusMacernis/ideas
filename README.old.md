@@ -137,6 +137,13 @@ Simonas says: [Flush app](https://play.google.com/store/apps/details?id=toilet.s
 - [ ] A pathwalk as a timeline of whatewer, e.g. history.
 - [ ] FDGEE: Web software development for organizations promoting green-lifestyle.
 - [ ] Extract questions out of pdf and random;y ask these. May also be configured to extract random topics, random lines, etc, - good for learning.
+- [ ] Balance assets
+- [ ] Contraversial QA
+- [ ] DateTime info collection
+- [ ] Hive of the culture - opensource open community dedicated to get info on culture in the area X
+- [ ] The list based on occupieable items. E.g. you come, make a list, share it, first comes and reserves the item, then second comes and may reserve any other but th efirst one, etc. The faster is the user the more choises he/she has.
+- [ ] Responsible time: Float, Toggl, Jira, Slack, OS time tracker
+- [ ] World simulation: A-B-C game
  
  
 Do you know anyone who has successfully implemented any ideas on this list? Let me know, I will add the link to the result. 
