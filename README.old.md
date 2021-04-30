@@ -144,6 +144,7 @@ Simonas says: [Flush app](https://play.google.com/store/apps/details?id=toilet.s
 - [ ] The list based on occupieable items. E.g. you come, make a list, share it, first comes and reserves the item, then second comes and may reserve any other but th efirst one, etc. The faster is the user the more choises he/she has.
 - [ ] Responsible time: Float, Toggl, Jira, Slack, OS time tracker
 - [ ] World simulation: A-B-C game
+- [ ] Extension monitoring how long you are on the same web page, e.g. Facebook. If too much - warn the user.
  
  
 Do you know anyone who has successfully implemented any ideas on this list? Let me know, I will add the link to the result. 
